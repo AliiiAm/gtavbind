@@ -18,6 +18,7 @@ Example :  `triggerClientEvent(source,"addgtavbind",source,"MTA","E")`
 
 • In client side : 
 `triggerEvent("addgtavbind",element,name,bind)`
+
 Example : `triggerEvent("addgtavbind",localPlayer,"MTA","E")`
 
 # Our discord 💬
