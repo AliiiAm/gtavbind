@@ -46,7 +46,7 @@ function startRendering()
 end
 
 function stopRendering()
-	if rendering then
+	if not rendering then
 		return
 	end
 	
