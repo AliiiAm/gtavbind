@@ -21,8 +21,8 @@ Example :  `triggerClientEvent(source,"addgtavbind",source,"MTA","E")`
 
 Example : `triggerEvent("addgtavbind",localPlayer,"MTA","E")`
 
-# Our discord 💬
- Owl Shop : https://discord.gg/vDU4kz2uHT
+# My Discord
+- aliii_am
  
  # Image 📷
 ![mta-screen_2022-06-01_19-28-55](https://user-images.githubusercontent.com/84466647/171452610-0b69226e-515f-4eee-9974-a96a2f6d8725.png)
