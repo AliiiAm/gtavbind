@@ -5,7 +5,7 @@
 
 3 • Then type `start gtavbind`
 
-4 • Enjoy
+4 • enjoy !
 
 # How To Use ✔️
 
